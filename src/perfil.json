@@ -1,3 +1,62 @@
 {
-    "skills": ["Python", "Scraping", "Flask", "PostgreSQL"]
+  "nombre": "Gonzalo",
+  "resumen": [
+    "Programador Python con foco en automatización y scraping.",
+    "Estudiando para convertirme en desarrollador backend sólido.",
+    "Interesado en proyectos con impacto real y buen código.",
+    "Fuerte compromiso con la calidad, la mejora continua y el trabajo bien hecho."
+  ],
+  "skills": [
+    {
+      "nombre": "Python",
+      "nivel": "intermedio"
+    },
+    {
+      "nombre": "Scraping",
+      "nivel": "intermedio"
+    },
+    {
+      "nombre": "Git",
+      "nivel": "básico"
+    },
+    {
+      "nombre": "APIs REST",
+      "nivel": "básico"
+    },
+    {
+      "nombre": "HTML/CSS",
+      "nivel": "básico"
+    }
+  ],
+  "tags": [
+    "python",
+    "scraping",
+    "automatización",
+    "backend",
+    "estudiante",
+    "junior"
+  ],
+  "valores": [
+    "Responsabilidad",
+    "Respeto",
+    "Libertad",
+    "Sacrificio",
+    "Fe",
+    "Mejora continua"
+  ],
+  "links": {
+    "github": "https://github.com/Gonzalo5351",
+    "linkedin": "https://www.linkedin.com/in/gonzalo-velazco-63a7b9210/",
+    "portafolio_web": "https://www.skylinefoundry.com",
+    "repositorios_destacados": [
+      "https://github.com/Gonzalo5351/scraping-bot",
+      "https://github.com/Gonzalo5351/developer-profile"
+    ]
+  },
+  "objetivos": [
+    "Conseguir mi primer trabajo como Python Jr.",
+    "Construir un portfolio fuerte y profesional.",
+    "Desarrollar habilidades en FastAPI y bases de datos relacionales.",
+    "Aplicar a proyectos freelance con impacto."
+  ]
 }
